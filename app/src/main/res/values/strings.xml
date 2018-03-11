@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Curd Using Room </string>
+    <string name="add">add</string>
+    <string name="age">age</string>
+
+    <string name="email">Email</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="update_success">Updated successfully</string>
+    <string name="operation_failed">Operation failed</string>
+    <string name="inserted_successfully">Person data is inserted into database successfully</string>
+    <string name="update_me">Update me</string>
+</resources>
